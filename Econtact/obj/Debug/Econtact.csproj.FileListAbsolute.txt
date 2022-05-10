@@ -1,0 +1,10 @@
+C:\Users\Sony\source\repos\Econtact\Econtact\bin\Debug\Econtact.exe.config
+C:\Users\Sony\source\repos\Econtact\Econtact\bin\Debug\Econtact.exe
+C:\Users\Sony\source\repos\Econtact\Econtact\bin\Debug\Econtact.pdb
+C:\Users\Sony\source\repos\Econtact\Econtact\obj\Debug\Econtact.csproj.AssemblyReference.cache
+C:\Users\Sony\source\repos\Econtact\Econtact\obj\Debug\Econtact.Econtact.resources
+C:\Users\Sony\source\repos\Econtact\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+C:\Users\Sony\source\repos\Econtact\Econtact\obj\Debug\Econtact.csproj.GenerateResource.cache
+C:\Users\Sony\source\repos\Econtact\Econtact\obj\Debug\Econtact.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\Econtact\Econtact\obj\Debug\Econtact.exe
+C:\Users\Sony\source\repos\Econtact\Econtact\obj\Debug\Econtact.pdb
